@@ -23,4 +23,4 @@ python3 main.py
 
 # Our Mascot
 Felix
-![Felix](Felix.png)
+![](Felix.png)
